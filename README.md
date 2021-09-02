@@ -1,4 +1,4 @@
-# CryptographicAlgorith
+# CryptographicAlgorithm
 
 Thi is a C++ Program which Encrypt and Decrypt an entered message. It is somehow what I can call a static encryption algortihtm hence each character outputs the same string in the encryption process. when a message is entered you are given a choice to encrypt or decrypt. if it is plain text you want to encrypt you choose to encrypt, and if it is ciphers produced from certain plain text you choose to decrypt. 
 Ciphers produced by thhis program are perfectly reconverted to plain text.
